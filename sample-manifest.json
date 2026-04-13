@@ -1,0 +1,12 @@
+{
+  "export_job_id": "9c661cd0-2144-4c31-92a9-a15f75a18ad5",
+  "id_short": 576365,
+  "published_at": "2026-04-13T07:10:55Z",
+  "repo_name": "restaurant-verified-email-access-in-california-us-sample-576365",
+  "sample_asset_name": "beamstation_576365_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/576365/beamstation_576365_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 1000,
+  "sample_sha256": "f99259cd502ac4cb039337afaef4e276f2e9364e3fed9d166ebb07cabb2d0218",
+  "sample_size_bytes": 3916071,
+  "total_records": 19649
+}
