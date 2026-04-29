@@ -9,9 +9,9 @@
 | Dataset ID | `576365` |
 | Location | California |
 | Category | Restaurants |
-| Full dataset size | 15,688 records |
-| Free sample size | 1,000 records (6.37%) |
-| Last export | 2026-04-22T15:47:42.206745+00:00 |
+| Full dataset size | 14,604 records |
+| Free sample size | 1,000 records (6.85%) |
+| Last export | 2026-04-29T15:34:30.186879+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-california-us-sample-576365/releases/download/sample-latest/beamstation_576365_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
